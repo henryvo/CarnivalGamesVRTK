@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Throwing Balls (with Teleport and Terrrain).unity
+  isLoaded: 1
+  isActive: 1
